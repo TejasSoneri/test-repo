@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: com.JavaAgent.Agent.Agent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Boot-Class-Path: target\JavaAgent-0.0.1-SNAPSHOT.jar
